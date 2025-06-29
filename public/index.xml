@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Insurance Shoppers</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Insurance Shoppers</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Insurance Shoppers, Inc. is run by Jay Norris, a licensed health insurance broker who’s been helping people make sense of health coverage for more than two decades.&lt;/p&gt;
+&lt;p&gt;We don’t believe in cookie-cutter plans or pressure tactics. Our focus is helping you understand your options, whether that means walking you through ACA-compliant coverage, comparing plans for your family, or answering complex benefit questions.&lt;/p&gt;
+&lt;p&gt;We work directly with individuals and small businesses. If you want someone to explain your options like a human, not a salesperson, you’re in the right spot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Have a question? Need help sorting through health insurance options?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:jay@insuranceshoppers.net&#34;&gt;jay@insuranceshoppers.net&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; (720) 352-7561&lt;/p&gt;
+&lt;p&gt;Want to schedule time to talk? Visit &lt;a href=&#34;https://healthinsurancecolorado.net&#34;&gt;healthinsurancecolorado.net&lt;/a&gt; for detailed info, tools, and plan guides.&lt;/p&gt;
+&lt;form action=&#34;https://formspree.io/f/your-form-id&#34; method=&#34;POST&#34;&gt;
+  &lt;label for=&#34;name&#34;&gt;Your name:&lt;/label&gt;&lt;br&gt;
+  &lt;input type=&#34;text&#34; name=&#34;name&#34; required&gt;&lt;br&gt;
+  &lt;label for=&#34;email&#34;&gt;Your email:&lt;/label&gt;&lt;br&gt;
+  &lt;input type=&#34;email&#34; name=&#34;_replyto&#34; required&gt;&lt;br&gt;
+  &lt;label for=&#34;message&#34;&gt;Message:&lt;/label&gt;&lt;br&gt;
+  &lt;textarea name=&#34;message&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>&lt;p&gt;We respect your privacy. This website doesn’t collect personal information unless you choose to provide it through email or a contact form.&lt;/p&gt;
+&lt;p&gt;If you do reach out, we won’t share your information with anyone, ever. We don’t run ads, track behavior across the internet, or sell data. Your communication with us stays between us.&lt;/p&gt;
+&lt;p&gt;If you have questions about this policy, feel free to reach out to &lt;a href=&#34;mailto:jay@insuranceshoppers.net&#34;&gt;jay@insuranceshoppers.net&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

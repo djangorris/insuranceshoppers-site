@@ -1,0 +1,34 @@
+
+baseURL = "https://insuranceshoppers.net/"
+languageCode = "en-us"
+title = "Insurance Shoppers"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  defaultTheme = "light"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "privacy-policy"
+    name = "Privacy"
+    url = "/privacy-policy/"
+    weight = 4
