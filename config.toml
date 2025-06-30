@@ -1,12 +1,13 @@
-
 baseURL = "https://insuranceshoppers.net/"
 languageCode = "en-us"
 title = "Insurance Shoppers"
 theme = "PaperMod"
 
 [params]
-  ShowReadingTime = true
   defaultTheme = "light"
+
+  [params.assets]
+    favicon = "/images/favicon.png"
 
 [menu]
   [[menu.main]]
